@@ -1,0 +1,54 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\RomatoPotato\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\CraftableMimics\\CraftableMimics.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\RomatoPotato\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\CraftableMimics\\CraftableMimics.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\RomatoPotato\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\CraftableMimics\\CraftableMimics.csproj",
+        "projectName": "CraftableMimics",
+        "projectPath": "C:\\Users\\RomatoPotato\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\CraftableMimics\\CraftableMimics.csproj",
+        "packagesPath": "C:\\Users\\RomatoPotato\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RomatoPotato\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\CraftableMimics\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\RomatoPotato\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "dependencies": {
+            "tModLoader.CodeAssist": {
+              "target": "Package",
+              "version": "[0.1.*, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

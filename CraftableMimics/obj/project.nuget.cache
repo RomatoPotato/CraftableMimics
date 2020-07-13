@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3qy8vdD3y8M1dsSM/eJ84gDChHOfx6Uq3sxVnLH2CQ94ZOp+fvou/6vl2qIA8QgK8ksnJ30WGtAURTUvUua4og==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RomatoPotato\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\CraftableMimics\\CraftableMimics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RomatoPotato\\.nuget\\packages\\tmodloader.codeassist\\0.1.1\\tmodloader.codeassist.0.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,19 @@
+This mod allows you to create an item for the summons of wooden, gold, shadow or ice mimics.
+
+Wooden mimics can be summoned to the surface
+Golden mimics can be summoned in the dungeon
+Shadow mimics can be called in hell
+Ice mimic can only be summoned in caves of ice biome
+
+To do this, create a Mysterious key from
+- ten souls of night
+- ten soul of light
+- 10 of any wood
+- 2 gold or platinum bars
+- 10 obsidian
+- 10 ice blocks
+
+Thanks for using my first mod! ;)
+P.S. Sorry for my English, i use a mashine translate)
+
+Mod by RomatoPotato
